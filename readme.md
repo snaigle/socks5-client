@@ -12,8 +12,8 @@ socks-client会将这部分流量转发到socks5 server上
 3. 示例 sudo ./socks-client 
 
 待办列表
-[ ] 支持将单一域名的请求转发到socks5 tunnel上
-[ ] 支持多域名的请求转发到socks5上
-[ ] 支持配置文件指定特定域名的实际目标IP
-[ ] 支持socks-server 和socks-client在单机情况下可配制socks-server的dns resolver 
+- [ ] 支持将单一域名的请求转发到socks5 tunnel上
+- [ ] 支持多域名的请求转发到socks5上
+- [ ] 支持配置文件指定特定域名的实际目标IP
+- [ ] 支持socks-server 和socks-client在单机情况下可配制socks-server的dns resolver 
 
